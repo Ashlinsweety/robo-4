@@ -1,6 +1,6 @@
 # EXP-4-Interfacing-Analog-Output-With-Development-Board-And-Servo-Motor
-# NAME: BALAMURUGAN.K
-# REG NO: 212225040042
+# NAME: ASHLIN SWEETY.R
+# REG NO: 212225040031
 
 ## Aim:
 
